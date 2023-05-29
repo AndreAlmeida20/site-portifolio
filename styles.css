@@ -54,6 +54,9 @@ p {
   text-align: center;
   max-width: 70%;
 }
+a {
+  color: #1e1e1e;
+}
 footer {
   display: flex;
   width: 100vw;
@@ -132,7 +135,7 @@ footer {
 }
 
 .hero-info-image {
-  width: 594px;
+  width: 110%;
   height: 542px;
   border-radius: 40px;
   border-color: #0f52ba;
@@ -316,6 +319,7 @@ footer {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  margin-bottom: 16px;
 }
 .section-contact-item-icon {
   width: 24px;
