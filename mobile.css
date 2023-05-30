@@ -6,6 +6,11 @@
     padding-right: 12px;
   }
 
+  h2 {
+    line-height: 64px;
+    font-size: 60px;
+  }
+
   .hero-info-image {
     height: 48vw;
   }
@@ -64,8 +69,9 @@
 
   .ability-cards-container {
     row-gap: 36px;
-    margin-top: 12px;
+    margin-top: 46px;
     grid-template-columns: auto;
+    width: 100%;
   }
 
   .section-experiences-card {
@@ -91,5 +97,20 @@
   .hero-info-icons-container {
     margin-top: 40px;
     width: 60%;
+  }
+
+  .section-ability {
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+  }
+
+  .ability-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 312px;
+    height: auto;
+    padding: 12px;
   }
 }
