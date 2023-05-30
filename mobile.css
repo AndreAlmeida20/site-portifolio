@@ -1,0 +1,95 @@
+@media only screen and (max-device-width: 450px) {
+  button {
+    height: 80px;
+    font-size: 24px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .hero-info-image {
+    height: 48vw;
+  }
+
+  .links-navegacao {
+    display: none;
+  }
+
+  .titulo-navegacao {
+    font-size: 32px;
+  }
+
+  .barra-navegacao {
+    width: 100%;
+    margin-top: 24px;
+  }
+
+  .section-hero {
+    height: 58vh;
+  }
+
+  .hero-info-title {
+    font-size: 56px;
+    margin-top: 12px;
+  }
+
+  .hero-info-text-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 24px;
+  }
+
+  .hero-info-subtitle {
+    font-size: 32px;
+    line-height: 36px;
+    max-width: 70%;
+    margin-bottom: 42px;
+  }
+
+  .content-container {
+    width: 92vw;
+    max-width: 92vw;
+  }
+
+  .hero-info {
+    width: 100%;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    margin-top: 156px;
+  }
+
+  .ability-cards-container {
+    row-gap: 36px;
+    margin-top: 12px;
+    grid-template-columns: auto;
+  }
+
+  .section-experiences-card {
+    width: 90vw;
+  }
+
+  .section-portifolio-grid {
+    row-gap: 36px;
+    margin-top: 24px;
+    grid-template-columns: auto;
+  }
+
+  .footer-content {
+    width: 100vw;
+  }
+
+  .hero-info-icons-img {
+    width: 56px;
+    height: 56px;
+    cursor: pointer;
+  }
+
+  .hero-info-icons-container {
+    margin-top: 40px;
+    width: 60%;
+  }
+}
