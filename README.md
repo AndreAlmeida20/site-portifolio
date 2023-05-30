@@ -7,6 +7,10 @@ The main goal is creat a website with my professional information.
 
 <img src="https://github.com/AndreAlmeida20/site-portifolio/blob/main/Preview.jpg" height="500"/>
 
+# Live Link:
+
+https://andrealmeida20.github.io./site-portifolio/
+
 # Main concepts applied
 
 - Flexbox
@@ -27,12 +31,10 @@ git clone https://github.com/AndreAlmeida20/site-portifolio.git
 
 ```
 site-portifolio
-
 ```
 
 3. Open the index file with the browser:
 
 ```
 index.html
-
 ```
